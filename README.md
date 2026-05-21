@@ -6,11 +6,11 @@ A Healthcare Chatbot powered by **Mistral AI** with a **Flask** backend and **St
 
 ##  Features
 
-- 💬 Real-time chat interface with styled chat bubbles
-- 🤖 Powered by Mistral AI (mistral-medium / mistral-small)
-- 🔧 Flask REST API backend with health check endpoint
-- 🎨 Custom-styled Streamlit frontend
-- 🔐 Environment-based configuration for API keys
+-  Real-time chat interface with styled chat bubbles
+-  Powered by Mistral AI (mistral-medium / mistral-small)
+-  Flask REST API backend with health check endpoint
+-  Custom-styled Streamlit frontend
+-  Environment-based configuration for API keys
 
 ---
 
