@@ -74,7 +74,12 @@ Healthcare-Chatbot/
 ├── streamlit_app.py    # Streamlit frontend UI
 ├── requirements.txt    # Python dependencies
 ├── .env                # Environment variables (not tracked)
+├── .env.example        # Example environment config
 ├── .gitignore          # Git ignore rules
+├── LICENSE             # MIT License
+├── screenshots/        # Application screenshots
+│   ├── chatbot_interface.png
+│   └── chatbot_conversation.png
 └── README.md           # Project documentation
 ```
 
@@ -96,8 +101,17 @@ Healthcare-Chatbot/
 }
 ```
 
+## 📸 Screenshots
+
+### Chat Interface
+![Healthcare Chatbot Interface](screenshots/chatbot_interface.png)
+
+### Chat Conversation
+![Healthcare Chatbot Conversation](screenshots/chatbot_conversation.png)
+
 ---
 
 ## 📄 License
 
 This project is open source and available under the [MIT License](LICENSE).
+
