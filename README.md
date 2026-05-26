@@ -1,20 +1,20 @@
-# 🏥 Healthcare Chatbot
+#  Healthcare Chatbot
 
 A Healthcare Chatbot powered by **Mistral AI** with a **Flask** backend and **Streamlit** frontend for health, symptom, and wellness conversations.
 
 ---
 
-## 🚀 Features
+##  Features
 
-- 💬 Real-time chat interface with styled chat bubbles
-- 🤖 Powered by Mistral AI (mistral-medium / mistral-small)
-- 🔧 Flask REST API backend with health check endpoint
-- 🎨 Custom-styled Streamlit frontend
-- 🔐 Environment-based configuration for API keys
+-  Real-time chat interface with styled chat bubbles
+-  Powered by Mistral AI (mistral-medium / mistral-small)
+-  Flask REST API backend with health check endpoint
+-  Custom-styled Streamlit frontend
+-  Environment-based configuration for API keys
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 | Layer    | Technology       |
 |----------|-----------------|
@@ -25,7 +25,7 @@ A Healthcare Chatbot powered by **Mistral AI** with a **Flask** backend and **St
 
 ---
 
-## 📦 Installation
+##  Installation
 
 1. **Clone the repository**
    ```bash
@@ -50,7 +50,7 @@ A Healthcare Chatbot powered by **Mistral AI** with a **Flask** backend and **St
 
 ---
 
-## ▶️ Usage
+##  Usage
 
 1. **Start the Flask backend**
    ```bash
@@ -66,7 +66,7 @@ A Healthcare Chatbot powered by **Mistral AI** with a **Flask** backend and **St
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
 Healthcare-Chatbot/
@@ -85,7 +85,7 @@ Healthcare-Chatbot/
 
 ---
 
-## 📝 API Endpoints
+##  API Endpoints
 
 | Method | Endpoint         | Description              |
 |--------|-----------------|--------------------------|
@@ -111,7 +111,7 @@ Healthcare-Chatbot/
 
 ---
 
-## 📄 License
+##  License
 
 This project is open source and available under the [MIT License](LICENSE).
 
