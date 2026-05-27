@@ -101,7 +101,7 @@ Healthcare-Chatbot/
 }
 ```
 
-## 📸 Screenshots
+##  Screenshots
 
 ### Chat Interface
 ![Healthcare Chatbot Interface](screenshots/chatbot_interface.png)
